@@ -1,3 +1,4 @@
+package atividade;
 public class MyMathClass {
     public static double PI;
     static{
