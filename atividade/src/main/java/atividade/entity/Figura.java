@@ -1,4 +1,5 @@
-package atividade;
+package atividade.entity;
+
 public enum Figura {
     CIRCLE(v->java.lang.Math.PI*v[0]*v[0]),
     RECT(v->v[0]*v[1]),
